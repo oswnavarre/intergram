@@ -1,1 +1,9 @@
 # Modals of Possibility and Probability
+
+**Rule**  •  Express different degrees of certainty. *Must* ≈ 95 %, *may* ≈ 50 %, *might/could* ≈ 30 %.
+
+**Example (weather forecast – video)**
+
+{{< video src="https://www.youtube.com/watch?v=T1JzGJ5k0pQ" title="Weather Channel forecast" width=640 height=360 >}}
+
+> *“It **might** rain tonight, so keep an umbrella handy.”*

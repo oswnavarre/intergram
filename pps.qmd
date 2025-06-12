@@ -1,1 +1,9 @@
 # Present Perfect Simple
+
+**Rule**  Connects a past action to the present; the *result* is what matters.
+
+**Example (song lyric)**  —  *U2 – “I Still Haven’t Found What I’m Looking For”*.
+
+{{< video src="https://www.youtube.com/watch?v=e3-5YC_oHjE" title="U2 – I Still Haven’t Found What I’m Looking For" width=640 height=360 >}}
+
+> *I **haven’t found** what I’m looking for.* – Present perfect marks an unfinished search whose impact is still felt now.

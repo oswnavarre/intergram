@@ -1,1 +1,9 @@
 # Past Perfect Progressive
+
+**Rule**  Highlights the *ongoing* nature of a past action up to a second past moment.
+
+**Example (news clip – video)**
+
+{{< video src="https://www.youtube.com/watch?v=z0Kq2uLDpLw" title="BBC reporter: The workers had been striking for weeks…" width=640 height=360 >}}
+
+> *“The workers **had been striking** for weeks when the agreement was signed.”*
