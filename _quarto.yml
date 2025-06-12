@@ -9,7 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - pps.qmd
-    
+    - ppp.qmd
     - summary.qmd
     - references.qmd
 

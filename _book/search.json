@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Intermediate Grammar Project",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "This is a project.",
     "crumbs": [
-      "Preface"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
     ]
   },
   {
