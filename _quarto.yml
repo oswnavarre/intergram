@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "intergram"
-  author: "Norah Jones"
+  title: "Intermediate Grammar Project"
+  author: "Oswaldo Navarrete C."
   date: "6/11/2025"
   chapters:
     - index.qmd
