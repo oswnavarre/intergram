@@ -1,9 +1,9 @@
 # Past Perfect Progressive
 
-**Rule**  Highlights the *ongoing* nature of a past action up to a second past moment.
+*Rule**  •  Highlights the *ongoing* nature of a past action up to a second past moment.
 
-**Example (news clip – video)**
+**Example (news headline – text + link)**
 
-{{< video src="https://www.youtube.com/watch?v=z0Kq2uLDpLw" title="BBC reporter: The workers had been striking for weeks…" width=640 height=360 >}}
+*“Factory workers **had been striking** for weeks when management finally agreed to negotiate.”* – *The Guardian*, 12 Apr 2023.
 
-> *“The workers **had been striking** for weeks when the agreement was signed.”*
+<https://www.theguardian.com/business/2023/apr/12/factory-workers-end-strike>

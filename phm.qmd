@@ -1,1 +1,9 @@
 # Phrasal Modals
+
+**Rule** Multi‑word expressions functioning like core modals.
+
+**Example (song lyric – audio)**
+
+{{< video src="https://www.youtube.com/watch?v=aVXgpLeAfAY" title="The Beatles – You've Got to Hide Your Love Away" width=640 height=360 >}}
+
+> *“You’ve **got to** hide your love away…”* – The Beatles (1965).
