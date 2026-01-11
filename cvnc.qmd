@@ -1,1 +1,102 @@
 # Count vs. Non‑count Nouns and Quantifiers
+
+## Rule
+
+In English, **count nouns** are things we can count individually, while **non-count (uncountable) nouns** refer to things we see as a whole or as a mass. Because of this difference, they use **different quantifiers**.
+
+## Count nouns
+
+### Key features
+
+- Have **singular and plural** forms
+- Use **a / an** in the singular
+- Use numbers
+
+### Examples
+
+- *a book / two books*
+- *one student / many students*
+- *few questions*
+
+## Non-count nouns
+
+### Key features
+
+- Do **not** have a plural form
+- Do **not** use **a / an**
+- Use measurement expressions instead
+
+### Examples
+
+- *information* (not *informations*)
+- *advice* (not *advices*)
+- *equipment* (not *equipments*)
+- *water, money, research*
+
+::: {.callout-tip}
+To “count” non-count nouns, use expressions like:
+*a piece of*, *a bit of*, *a cup of*, *a lot of*.
+:::
+
+## Common quantifiers
+
+| Quantifier | Count | Non-count | Example |
+|---------|:-----:|:---------:|--------|
+| **many** | ✔ | ✖ | *many students* |
+| **much** | ✖ | ✔ | *much information* |
+| **a lot of / lots of** | ✔ | ✔ | *a lot of work* |
+| **few** | ✔ | ✖ | *few mistakes* |
+| **little** | ✖ | ✔ | *little time* |
+| **some / any** | ✔ | ✔ | *some data* |
+
+## My examples
+
+- *There are **many students** in the class but **little time** to review everything.*
+- *I received **a lot of advice** during my research project.*
+
+**Why they work:**  
+The quantifiers match the noun type (count vs. non-count).
+
+## Real-world example (everyday language)
+
+> *We don’t have much time, but we still have a few options.*
+
+**Why it works:**  
+This sentence contrasts **non-count** (*time*) with **count** (*options*),
+using the correct quantifiers for each.
+
+::: {.callout-note}
+These contrasts appear constantly in conversations, meetings, and academic contexts.
+:::
+
+## Common mistakes
+
+- ❌ *many information*  
+  ✅ *much information*
+
+- ❌ *few money*  
+  ✅ *little money*
+
+- ❌ *an advice*  
+  ✅ *a piece of advice*
+
+- ❌ *informations*  
+  ✅ *information*
+
+## Mini comparison
+
+- **few** → count nouns (negative idea)  
+  *Few students understood the topic.*
+
+- **a few** → count nouns (positive idea)  
+  *A few students asked questions.*
+
+- **little** → non-count nouns (negative idea)  
+  *Little progress was made.*
+
+- **a little** → non-count nouns (positive idea)  
+  *A little progress was made.*
+
+## Why this grammar point matters
+
+Understanding count and non-count nouns helps learners choose the correct articles and quantifiers, especially in academic and professional English.

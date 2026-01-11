@@ -1,9 +1,94 @@
 # Modals of Possibility and Probability
 
-**Rule**  Express different degrees of certainty. *Must* ≈ 90%, *may* ≈ 50 %, *might/could* ≈ 30 %.
 
-**Example (TV weather forecast – video)**
+## Rule
 
-{{< video src="https://www.youtube.com/watch?v=1APwq1df6Mw" title="The Weather Channel forecast clip" width=640 height=360 >}}
+We use **modals of possibility and probability** to express how sure or unsure we are
+about a situation.  
+They help us show **degrees of certainty**, not facts.
 
-*“It **might** rain tonight, so keep an umbrella handy.”*
+## Main modals and meaning
+
+| Modal | Degree of certainty | Meaning |
+|------|--------------------|---------|
+| **might / may / could** | low–medium | something is possible |
+| **must** | very high | we are almost sure |
+| **can’t / couldn’t** | very low | something is almost impossible |
+
+## Form
+
+**modal + base verb**
+
+- *She **might** be at home.*
+- *They **must** be tired.*
+- *He **can’t** be serious.*
+
+::: {.callout-tip}
+These modals are followed by the **base form** of the verb (no *to*, no *-s*).
+:::
+
+## When to use them
+
+- **Guessing about the present**:  
+  *He isn’t answering — he **might** be busy.*
+- **Logical conclusions**:  
+  *The lights are off; they **must** be asleep.*
+- **Rejecting an idea**:  
+  *That **can’t** be the answer.*
+
+## My example
+
+*Some students might feel confused at first, but they must improve with practice.*
+
+**Why it works:**  
+The speaker shows **uncertainty** (*might*) and then a **strong logical belief* (*must*).
+
+## Real-world example (TV series – dialogue)
+
+**Friends**
+
+> *She must be stuck in traffic.*
+
+**Why it works:**  
+The speaker does not have complete information, but based on the situation,
+they make a **logical conclusion** using **must**.
+
+::: {.callout-note}
+In everyday conversations and TV series, these modals are very common
+for guessing, explaining, or reacting to situations.
+:::
+
+## Real-world example (news-style language)
+
+> *The increase in temperatures could affect agricultural production.*
+
+**Why it works:**  
+News and reports often use **could** to express **possible consequences**
+without sounding too certain.
+
+## Common mistakes
+
+- ❌ *She must to be tired.*  
+  ✅ *She must be tired.*
+
+- ❌ *He might is late.*  
+  ✅ *He might be late.*
+
+- ❌ *That mustn’t be true.* (wrong meaning)  
+  ✅ *That can’t be true.* (logical impossibility)
+
+## Mini comparison
+
+- **might / may / could** → possibility  
+  *It might rain later.*
+
+- **must** → strong probability  
+  *It must be raining; the streets are wet.*
+
+- **can’t** → logical impossibility  
+  *He can’t be at home; I just saw him leave.*
+
+## Why this grammar point matters
+
+These modals allow speakers to sound **natural, polite, and realistic** when
+they are not 100 % sure, which is very common in real communication.

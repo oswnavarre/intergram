@@ -1,1 +1,85 @@
 # Polite Requests and Permission
+
+## Rule
+
+We use different structures to make **requests** or ask for **permission**
+depending on how **polite or formal** we want to sound.  
+Politeness in English often depends on **modal verbs**, **indirect language**,
+and **social distance**.
+
+## Asking for permission
+
+### Common structures
+
+- **Can I…?** → informal  
+- **May I…?** → more formal  
+- **Could I…?** → polite and common  
+
+Examples:
+- *Can I leave early today?*  
+- *May I use your phone?*  
+- *Could I ask a question?*
+
+::: {.callout-tip}
+**Could** sounds more polite than **can**, especially with strangers or in formal situations.
+:::
+
+## Making requests
+
+### From less to more polite
+
+- **Can you…?** → informal  
+- **Could you…?** → polite  
+- **Would you mind…?** → very polite  
+
+Examples:
+- *Can you help me with this?*  
+- *Could you explain that again?*  
+- *Would you mind closing the window?*
+
+::: {.callout-tip}
+After **Would you mind…**, use **-ing**:
+*Would you mind **opening** the door?*
+:::
+
+## My examples
+
+- *Could you please review my draft?*  
+- *Would you mind **waiting** a moment?*
+
+**Why they work:**  
+The speaker uses polite modal forms and indirect language to sound respectful.
+
+## Real-world example (everyday interaction)
+
+> *Could you please fill out this form?*
+
+**Why it works:**  
+This structure is common in offices, schools, and service situations.
+It is polite without being too formal.
+
+::: {.callout-note}
+Polite requests are especially important in academic and professional contexts.
+:::
+
+## Common mistakes
+
+- ❌ *You close the door?*  
+  ✅ *Could you close the door?*
+
+- ❌ *Would you mind to help me?*  
+  ✅ *Would you mind **helping** me?*
+
+- ❌ *Can you please to send the file?*  
+  ✅ *Can you please send the file?*
+
+## Mini politeness scale
+
+- **Very informal:** *Can you help me?*  
+- **Polite:** *Could you help me?*  
+- **Very polite:** *Would you mind helping me?*
+
+## Why this grammar point matters
+
+Using polite requests and permission forms correctly helps speakers
+sound respectful, professional, and culturally appropriate in English.

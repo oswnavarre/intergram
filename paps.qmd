@@ -1,7 +1,85 @@
 # Past Perfect Simple
 
-**Rule**  Describes an action that was completed **before** another point in the past.
+## Rule
 
-**Example (film quote – text)**
+We use the **past perfect simple** to talk about an action that was **completed before another action in the past**.  
+It helps us make the order of past events clear when the sequence is important.
 
-> *“I **had already locked** the door **before** I realised the keys were inside.”* – *Mission: Impossible* (1996).
+## Form
+
+**had + past participle (V3)**
+
+- I / You / We / They / He / She / It **had + V3**  
+  → *She had finished the report.*
+
+## When to use it
+
+- **Two past actions, one happened first**:  
+  *She left because she had finished her work.*
+- **Reported speech** (looking back further in time):  
+  *He said he had already seen the movie.*
+- **Past cause → past result**:  
+  *They were tired because they had worked all night.*
+
+::: {.callout-tip}
+If the order of events is already clear (for example, with **before/after**),
+the simple past is sometimes enough.
+:::
+
+## My example
+
+*By the time the class started, I had already prepared all the materials.*
+
+**Why it works:**  
+Preparing the materials happened **before** the class started (both are in the past, but one is earlier).
+
+## Real-world example (TV series)
+
+**Friends** – Season 2
+
+> *I had never seen anything like that before.*
+
+**Why it works:**  
+The experience (seeing something) happened **before** the moment the character is talking about in the past.
+
+::: {.callout-note}
+Past perfect is very common in TV series when characters explain
+background information or earlier experiences.
+:::
+
+<div class="video">
+<iframe
+  width="900"
+  height="506"
+  src="https://www.youtube.com/embed/dFdENoRwA54"
+  title="Friends - I had never seen anything like that before"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
+
+## Common mistakes
+
+- ✅ *When I arrived, they had already left.*  
+  ❌ *When I arrived, they already left.* (sequence unclear)
+
+- ✅ *She had finished her homework before she went out.*  
+  ❌ *She finished her homework before she had gone out.* (wrong tense order)
+
+- ❌ *She had went home.*  
+  ✅ *She had gone home.* (use past participle, not past tense)
+
+## Mini timeline
+
+- **Earlier past** → *had + V3*  
+- **Later past** → *simple past*
+
+Example:  
+*I realized I **had forgotten** my keys when I **got** to the office.*
+
+## References
+
+- British Council: Past perfect  
+- Cambridge Dictionary: Past perfect simple

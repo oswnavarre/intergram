@@ -1,1 +1,82 @@
 # Adjective Clauses – Subject Pronouns 
+
+## Rule
+
+An **adjective clause** (relative clause) describes a noun.  
+When the relative pronoun (**who / that / which**) is the **subject of the clause**,
+we **must keep it** (we cannot omit it).
+
+## Which pronoun to use
+
+- **who** → for people  
+  *The student **who** asked the question is here.*
+- **which** → for things/animals  
+  *The book **which** explains this topic is helpful.*
+- **that** → for people or things (more informal/neutral)  
+  *The app **that** I use is free.*
+
+::: {.callout-tip}
+If the pronoun is the **subject**, you cannot delete it:
+✅ *The teacher **who** explains clearly is popular.*  
+❌ *The teacher explains clearly is popular.*
+:::
+
+## How to recognize a “subject pronoun” clause
+
+Look inside the adjective clause:
+
+- If **who/that/which** is doing the verb → it’s the **subject**.
+  - *who **teaches**…* → “who” teaches (subject)
+
+Examples:
+- *The man **who lives** next door is friendly.*  
+- *The movie **that starts** at 7 is sold out.*  
+- *The device **which measures** rainfall is accurate.*
+
+## My examples
+
+- *I have a colleague **who teaches** online statistics.*  
+- *This is a website **that helps** learners practice grammar.*  
+- *I bought a sensor **which measures** temperature and humidity.*
+
+**Why they work:**  
+In each adjective clause, the pronoun (**who/that/which**) is the **subject** of the verb
+(*teaches / helps / measures*), so it cannot be omitted.
+
+## Real-world example (everyday language)
+
+> *Looking for someone **who can help** with English?*
+
+**Why it works:**  
+This type of sentence is common in ads, posts, and conversations.  
+The clause **who can help** describes *someone*, and **who** is the subject of **can help**.
+
+::: {.callout-note}
+“Who/that/which as subject” clauses appear constantly in real communication:
+advertisements, job posts, classroom instructions, and casual speech.
+:::
+
+## Common mistakes
+
+- ❌ *I know a person can fix computers.*  
+  ✅ *I know a person **who** can fix computers.*
+
+- ❌ *This is the book explains adjective clauses.*  
+  ✅ *This is the book **that** explains adjective clauses.*
+
+- ❌ *The phone which I bought yesterday is expensive.* (not wrong, but too formal sometimes)  
+  ✅ *The phone **that** I bought yesterday is expensive.* (more common in speech)
+
+## Mini comparison: subject vs. object pronoun (important)
+
+- **Subject pronoun (cannot omit)**  
+  *The woman **who lives** here is my neighbor.* ✅  
+  (who = subject of lives)
+
+- **Object pronoun (can omit)**  
+  *The woman (**who**) I met yesterday is my neighbor.* ✅  
+  (who = object of met → optional)
+
+## Why this grammar point matters
+
+Using adjective clauses correctly helps learners write and speak with more detail, without creating long, repetitive sentences.

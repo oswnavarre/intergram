@@ -1,1 +1,99 @@
 # Confusing Adjective vs. Adverb Forms
+
+## Rule
+
+**Adjectives** describe **nouns**, while **adverbs** describe **verbs, adjectives, or other adverbs**.  
+Many adverbs end in **-ly**, but **not all -ly words are adverbs**, and some common adverbs **do not end in -ly**, which often causes confusion.
+
+## Adjectives vs. adverbs: basic contrast
+
+- **Adjective** → describes a noun  
+  *She is a **careful** driver.*
+
+- **Adverb** → describes how an action happens  
+  *She drives **carefully**.*
+
+::: {.callout-tip}
+Ask yourself:  
+Am I describing a **thing/person** (adjective) or an **action** (adverb)?
+:::
+
+## Common confusing pairs
+
+### good vs. well
+
+- **good** → adjective  
+  *She is a **good** teacher.*
+- **well** → adverb / adjective for health  
+  *She teaches **well**.*  
+  *I feel **well** today.*
+
+### fast / hard / late (same form)
+
+These words can be **adjectives or adverbs**, and they **do not add -ly**.
+
+- *He is a **fast** runner.* (adjective)  
+- *He runs **fast**.* (adverb)
+
+- *It was a **hard** test.* (adjective)  
+- *She worked **hard**.* (adverb)
+
+- *The bus was **late**.* (adjective)  
+- *He arrived **late**.* (adverb)
+
+### friendly / lively / lonely (adjectives only)
+
+Some words ending in **-ly are adjectives**, not adverbs.
+
+- *She is very **friendly**.*  
+- *It was a **lively** discussion.*
+
+❌ *She spoke friendly.*  
+✅ *She spoke **in a friendly way**.*
+
+## My examples
+
+- *The instructions were **clear**, and the teacher explained them **clearly**.*
+- *He is a **hard** worker, and he works **hard** every day.*
+
+**Why they work:**  
+The adjective describes a noun (*instructions, worker*), and the adverb
+describes the action (*explained, works*).
+
+## Real-world example (everyday language)
+
+> *Please speak clearly.*
+
+**Why it works:**  
+The speaker is describing **how** the action (*speak*) should be done,
+so an **adverb** is required.
+
+::: {.callout-note}
+These forms appear constantly in classroom instructions, presentations,
+and workplace communication.
+:::
+
+## Common mistakes
+
+- ❌ *She did good on the exam.*  
+  ✅ *She did **well** on the exam.*
+
+- ❌ *He drives careful.*  
+  ✅ *He drives **carefully**.*
+
+- ❌ *She spoke friendly to the students.*  
+  ✅ *She spoke **in a friendly way** to the students.*
+
+## Mini comparison table
+
+| Word | Adjective use | Adverb use |
+|----|---------------|------------|
+| good / well | *a good result* | *performed well* |
+| fast | *a fast car* | *drive fast* |
+| hard | *hard work* | *work hard* |
+| late | *a late train* | *arrive late* |
+
+## Why this grammar point matters
+
+Using the correct adjective or adverb form helps learners sound
+clear, accurate, and professional, especially in academic and spoken English.

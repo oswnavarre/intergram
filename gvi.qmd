@@ -1,1 +1,122 @@
 # Gerunds vs. Infinitives
+
+## Rule
+
+Some verbs in English are followed by a **gerund** (*verb + -ing*),
+others by an **infinitive** (*to + base verb*), and a few can use **both**
+with little or no change in meaning.  
+This choice depends on the verb, not on the tense.
+
+## Gerunds (-ing)
+
+### Common verbs followed by gerunds
+
+- enjoy  
+- avoid  
+- finish  
+- consider  
+- keep  
+- suggest  
+
+### Examples
+
+- *I enjoy **teaching** statistics.*
+- *She avoided **answering** the question.*
+- *They finished **working** late.*
+
+::: {.callout-tip}
+Gerunds often describe **activities or experiences**.
+:::
+
+## Infinitives (to + verb)
+
+### Common verbs followed by infinitives
+
+- want  
+- decide  
+- plan  
+- hope  
+- need  
+- agree  
+
+### Examples
+
+- *I want **to learn** more about grammar.*
+- *They decided **to leave** early.*
+- *She hopes **to improve** her English.*
+
+::: {.callout-tip}
+Infinitives often express **intentions, goals, or plans**.
+:::
+
+## Verbs that can use both (meaning stays similar)
+
+- begin  
+- start  
+- continue  
+- like  
+- love  
+
+Examples:
+- *It started **raining**.*  
+- *It started **to rain**.*
+
+## Verbs that change meaning
+
+| Verb | Gerund (-ing) | Infinitive (to + verb) |
+|----|---------------|------------------------|
+| **remember** | remember a past action | remember to do something |
+| **stop** | stop an activity | stop in order to do something |
+| **try** | experiment | make an effort |
+| **forget** | forget a past action | forget to do something |
+
+Examples:
+- *I remember **locking** the door.* (memory)  
+- *Remember **to lock** the door.* (instruction)
+
+- *She stopped **smoking**.* (quit)  
+- *She stopped **to smoke**.* (purpose)
+
+## My examples
+
+- *I enjoy **working** with real data, but I also like **to explain** grammar rules clearly.*
+- *I remembered **saving** the file, but I forgot **to upload** it.*
+
+**Why they work:**  
+Each verb requires either a gerund or an infinitive depending on its meaning.
+
+## Real-world example (everyday language)
+
+> *Don’t forget **to bring** your ID.*
+
+**Why it works:**  
+In everyday instructions, **forget + to + verb** is used for actions
+that are still expected to happen.
+
+::: {.callout-note}
+This contrast (past memory vs. future responsibility) is one of the most
+important differences for learners.
+:::
+
+## Common mistakes
+
+- ❌ *I enjoy to teach.*  
+  ✅ *I enjoy **teaching**.*
+
+- ❌ *She decided going home.*  
+  ✅ *She decided **to go** home.*
+
+- ❌ *I stopped to study English.* (if you mean “quit”)  
+  ✅ *I stopped **studying** English.*
+
+## Mini comparison
+
+- **Gerund** → activity or experience  
+  *I like swimming.*
+
+- **Infinitive** → intention or goal  
+  *I like to swim before work.*
+
+## Why this grammar point matters
+
+Choosing between gerunds and infinitives correctly helps learners avoid very common errors and sound more natural in both speech and writing.

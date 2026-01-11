@@ -1,1 +1,116 @@
 # Comparatives and Superlatives
+
+## Rule
+
+We use **comparatives** to compare **two** people or things, and
+**superlatives** to compare **three or more**.  
+The form depends on the **length of the adjective** and whether it is irregular.
+
+## Comparative adjectives
+
+### Short adjectives (one syllable)
+
+**adjective + -er**
+
+- *small → smaller*
+- *fast → faster*
+- *tall → taller*
+
+Examples:
+- *This room is **smaller** than the other one.*
+- *Data analysis is **faster** with better tools.*
+
+### Long adjectives (two or more syllables)
+
+**more + adjective**
+
+- *more interesting*
+- *more expensive*
+- *more comfortable*
+
+Examples:
+- *Online classes are **more flexible** than traditional ones.*
+
+::: {.callout-tip}
+Some two-syllable adjectives (ending in **-y**) behave like short adjectives:
+*happy → happier*
+:::
+
+## Superlative adjectives
+
+### Short adjectives
+
+**the + adjective + -est**
+
+- *small → the smallest*
+- *fast → the fastest*
+
+Examples:
+- *This is **the easiest** topic in the unit.*
+
+### Long adjectives
+
+**the most + adjective**
+
+- *the most important*
+- *the most difficult*
+
+Examples:
+- *Grammar is one of **the most important** skills for clear communication.*
+
+## Irregular forms
+
+| Adjective | Comparative | Superlative |
+|----------|-------------|-------------|
+| good | better | the best |
+| bad | worse | the worst |
+| far | farther / further | the farthest / the furthest |
+
+## My examples
+
+- *This explanation is **clearer** than the previous one.*
+- *This is **the most useful** grammar page in the scrapbook.*
+
+**Why they work:**  
+The first sentence compares **two** explanations; the second compares **many** pages.
+
+## Real-world example (everyday language)
+
+> *This is the best option for beginners.*
+
+**Why it works:**  
+Advertising and everyday speech often use **superlatives** to highlight
+something as the top choice among many options.
+
+::: {.callout-note}
+Comparatives and superlatives are very common in reviews, ads,
+and informal recommendations.
+:::
+
+## Common mistakes
+
+- ❌ *more easier*  
+  ✅ *easier*
+
+- ❌ *the most fastest*  
+  ✅ *the fastest*
+
+- ❌ *She is more smart than her sister.*  
+  ✅ *She is smarter than her sister.*
+
+- ❌ *This is the better option.* (when comparing many)  
+  ✅ *This is the best option.*
+
+## Mini comparison
+
+- **Comparative** → two items  
+  *This task is harder than the last one.*
+
+- **Superlative** → three or more  
+  *This is the hardest task in the course.*
+
+## Why this grammar point matters
+
+Using comparatives and superlatives correctly helps speakers
+make clear, natural comparisons in academic, professional,
+and everyday contexts.

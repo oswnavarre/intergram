@@ -1,9 +1,101 @@
 # Phrasal Modals
 
-**Rule** Multi‑word expressions functioning like core modals.
+## Rule
 
-**Example (song lyric – audio)**
+**Phrasal modals** are multi-word expressions that work like modal verbs.
+They express ideas such as **obligation, advice, expectation, or ability**.
+They are common in everyday English because they often sound more natural than single modals.
 
-{{< video src="https://www.youtube.com/watch?v=aVXgpLeAfAY" title="The Beatles – You've Got to Hide Your Love Away" width=640 height=360 >}}
+## Common phrasal modals and meaning
 
-> *“You’ve **got to** hide your love away…”* – The Beatles (1965).
+| Phrasal modal | Meaning | Typical context |
+|---|---|---|
+| **have (got) to** | strong obligation / necessity | rules, deadlines |
+| **be able to** | ability (present/future/past) | skills, possibility |
+| **ought to** | advice / expectation (moral “should”) | recommendations |
+| **be supposed to** | expectation / rule / plan | duties, rules, schedules |
+| **be going to** | planned intention / strong prediction | plans, evidence |
+
+## Form and grammar notes
+
+### have (got) to
+- **Present:** *I have to leave.* / *I’ve got to leave.*
+- **Past:** *I had to leave.*
+- **Negative:** *I don’t have to leave.* (no necessity)
+
+::: {.callout-tip}
+**Don’t have to** = not necessary  
+**Mustn’t** = prohibited (very different meaning)
+:::
+
+### ought to
+- *You ought to study more.*  
+(“to” is part of the structure)
+
+### be able to
+- *I am able to help today.*  
+- *I was able to fix it yesterday.* (useful when “could” is ambiguous)
+
+### be supposed to
+- *We are supposed to submit it by Friday.* (expectation / rule)
+- *The bus is supposed to arrive at 8.* (schedule)
+
+## When to use them
+
+- **Obligation / necessity:** *I’ve got to finish this today.*
+- **Advice / expectation:** *You ought to sleep earlier.*
+- **Ability across tenses:** *She was able to solve it quickly.*
+- **Rules / expectations / plans:** *You’re supposed to sign here.*
+
+## My example
+
+*I’ve got to update my Quarto site this week, and I’m supposed to submit the final link on time.*
+
+**Why it works:**  
+Both expressions communicate obligation/expectation in a natural way.
+
+## Real-world example (TV series–style dialogue)
+
+**Friends (dialogue style)**
+
+> *We’re supposed to be there at 7.*  
+> *I’ve got to go now.*
+
+**Why it works:**  
+These phrasal modals sound very natural in spoken English. They show:
+- **expected plan/rule** (*supposed to*)
+- **strong necessity** (*have got to*)
+
+::: {.callout-note}
+If video clips are blocked, a dialogue-style “real-world” example still reflects
+authentic spoken English (the way people actually talk in sitcoms and daily life).
+:::
+
+## Common mistakes
+
+- ❌ *I have to to go.*  
+  ✅ *I have to go.*
+
+- ❌ *You ought study more.*  
+  ✅ *You ought to study more.*
+
+- ❌ *I don’t have to go = I mustn’t go.*  
+  ✅ *I don’t have to go* (not necessary)  
+  ✅ *I mustn’t go* (not allowed)
+
+- ❌ *I am able to go yesterday.*  
+  ✅ *I was able to go yesterday.*
+
+## Mini comparison
+
+- **must** (strong obligation, often formal)  
+  *I must finish this report.*
+
+- **have to / have got to** (strong obligation, very common in conversation)  
+  *I’ve got to finish this report.*
+
+- **should / ought to** (advice)  
+  *You ought to rest.*
+
+- **can / be able to** (ability; “be able to” works better across tenses)  
+  *I wasn’t able to join the meeting yesterday.*

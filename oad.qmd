@@ -1,1 +1,74 @@
 # Order of Adjectives
+
+## Rule
+
+In English, when we use **more than one adjective before a noun**, they usually follow a **natural and fixed order**.  
+Native speakers don’t think about the rule consciously, but changing the order often sounds unnatural.
+
+## The usual adjective order
+
+**Opinion → Size → Age → Shape → Color → Origin → Material → Purpose → Noun**
+
+### Example pattern
+
+> *a **beautiful** **small** **old** **round** **brown** **Italian** **wooden** **coffee** table*
+
+::: {.callout-tip}
+You don’t need to use all categories. Most sentences use **two or three adjectives** at most.
+:::
+
+## Common categories with examples
+
+| Category | Example adjectives |
+|--------|-------------------|
+| **Opinion** | beautiful, interesting, terrible |
+| **Size** | big, small, tiny |
+| **Age** | old, new, modern |
+| **Shape** | round, square, long |
+| **Color** | red, blue, dark |
+| **Origin** | Italian, Costa Rican |
+| **Material** | wooden, metal, plastic |
+| **Purpose** | coffee (table), running (shoes) |
+
+## My examples
+
+- *She bought a **beautiful small old house** near the university.*  
+- *I use a **large new metal water bottle** every day.*
+
+**Why they work:**  
+The adjectives follow the expected order, so the sentences sound natural and fluent.
+
+## Real-world example (everyday language)
+
+> *a big old red bus*
+
+**Why it works:**  
+The speaker describes **size → age → color** before the noun, which follows the natural English pattern.
+
+::: {.callout-note}
+This order appears constantly in everyday speech, advertising, and product descriptions,
+even if speakers are not aware of the rule.
+:::
+
+## Common mistakes
+
+- ❌ *a red big car*  
+  ✅ *a big red car*
+
+- ❌ *a wooden old table*  
+  ✅ *an old wooden table*
+
+- ❌ *an Italian beautiful painting*  
+  ✅ *a beautiful Italian painting*
+
+## Mini practice check
+
+Which one sounds better?
+
+- *a small black leather bag* ✅  
+- *a leather black small bag* ❌
+
+## Why this grammar point matters
+
+Correct adjective order helps learners sound **more natural and fluent**,
+even when they already know many adjectives.

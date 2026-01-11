@@ -1,9 +1,64 @@
 # Present Perfect Simple
 
-**Rule**  Connects a past action to the present; the *result* is what matters.
+## Rule
 
-**Example (song lyric)**  —  *U2 – “I Still Haven’t Found What I’m Looking For”*.
+We use the **present perfect** to connect a past action to the present.  
+The exact time is not important; the result or connection **now** is what matters.
 
-{{< video src="https://www.youtube.com/watch?v=e3-5YC_oHjE" title="U2 – I Still Haven’t Found What I’m Looking For" width=640 height=360 >}}
+## Form
 
-> *I **haven’t found** what I’m looking for.* – Present perfect marks an unfinished search whose impact is still felt now.
+**have/has + past participle (V3)**
+
+- **I/You/We/They** have + V3 → *I have finished.*
+- **He/She/It** has + V3 → *She has finished.*
+
+## When to use it
+
+- **Life experience** (no specific time): *I’ve visited Ecuador.*
+- **Recent past with a present result**: *She has broken her arm* (it affects now).
+- **Unfinished situation up to now** (often with *yet/already/just*): *I haven’t decided yet.*
+
+::: {.callout-tip}
+If you say **when** it happened (*yesterday, in 2020, last week*), you usually need **simple past**, not present perfect.
+:::
+
+## My example
+
+*I have taught statistics for years, so I have seen many common grammar mistakes.*
+
+**Why it works:** The action started in the past and has a clear connection to now (my experience today).
+
+## Real-world example (song)
+
+**U2 – “I Still Haven’t Found What I’m Looking For”** (official music video)
+
+> I haven’t found what I’m looking for.
+
+**Why it works:** The search started in the past and is still unfinished now, so the present connection is clear.
+
+
+
+<div class="video">
+<iframe
+  width="900"
+  height="506"
+  src="https://www.youtube.com/embed/e3-5YC_oHjE"
+  title="U2 - I Still Haven't Found What I'm Looking For (Official Music Video)"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
+## Common mistakes
+
+- ✅ *I have lived in Costa Rica for 3 years.* (still true now)  
+  ❌ *I lived in Costa Rica for 3 years.* (sounds finished)
+
+- ✅ *I have seen that movie.* (experience)  
+  ✅ *I saw that movie last night.* (specific time → simple past)
+
+## References
+
+- British Council: Present perfect  
+- Cambridge Dictionary: Present perfect simple

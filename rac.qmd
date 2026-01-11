@@ -1,1 +1,85 @@
 # Reduced Adjective Clauses
+
+## Rule
+
+A **reduced adjective clause** is a shorter version of an adjective (relative) clause.  
+We reduce the clause **when the relative pronoun is the subject** and the verb is:
+- **be + verb-ing**, or
+- **be + adjective / noun**
+
+The goal is to make sentences **shorter and more natural**, especially in writing.
+
+## Basic reduction patterns
+
+### 1. be + verb-ing → verb-ing
+
+- Full clause:  
+  *The student **who is studying** online needs help.*
+- Reduced clause:  
+  *The student **studying** online needs help.*
+
+### 2. be + adjective / noun → adjective / noun phrase
+
+- Full clause:  
+  *The device **that is new** works well.*
+- Reduced clause:  
+  *The **new** device works well.*
+
+::: {.callout-tip}
+You can only reduce the clause if **who/that/which is the subject** of the adjective clause.
+:::
+
+## When you can reduce (and when you can’t)
+
+### You **can** reduce:
+- *The report **that is written** in English is clear.*  
+  → *The report **written** in English is clear.*
+
+### You **cannot** reduce:
+- *The report **that I wrote** is clear.* ❌  
+(“that” is the **object** of *wrote*, not the subject)
+
+## My examples
+
+- *Students **taking** online courses need good time management skills.*  
+- *The files **stored** on the server are backed up daily.*  
+- *Equipment **used** in the lab must be cleaned.*
+
+**Why they work:**  
+In each case, the relative pronoun is the **subject**, so the clause can be reduced.
+
+## Real-world example (formal writing style)
+
+> *Applicants **interested** in the position should apply online.*
+
+**Why it works:**  
+This structure is very common in **job ads, instructions, and academic writing**.
+The reduced clause makes the sentence clear and concise.
+
+::: {.callout-note}
+Reduced adjective clauses are especially frequent in **written English**
+(job postings, manuals, reports).
+:::
+
+## Common mistakes
+
+- ❌ *The man talking to I met yesterday.*  
+  ✅ *The man **who I met** yesterday.* (cannot reduce)
+
+- ❌ *The students are studying online need help.*  
+  ✅ *The students **studying** online need help.*
+
+- ❌ *The report that written in English is long.*  
+  ✅ *The report **written** in English is long.*
+
+## Mini comparison: full vs. reduced
+
+- **Full:** *The book **which is used** in the course is expensive.*  
+- **Reduced:** *The book **used** in the course is expensive.*
+
+- **Full:** *The people **who are waiting** outside are students.*  
+- **Reduced:** *The people **waiting** outside are students.*
+
+## Why this grammar point matters
+
+Reduced adjective clauses help learners write **more efficiently and professionally**, especially in academic and formal contexts.

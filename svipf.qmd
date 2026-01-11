@@ -1,1 +1,118 @@
 # Stative Verbs in Progressive Forms
+
+## Rule
+
+**Stative verbs** describe **states**, not actions.  
+They usually refer to thoughts, feelings, possession, or senses, so they
+**do not normally appear in progressive (-ing) forms**.
+
+However, some stative verbs **can** be used in the progressive
+when the meaning changes to describe a **temporary or dynamic situation**.
+
+## Common stative verbs
+
+### Mental states
+- know
+- believe
+- understand
+- remember
+- prefer
+
+### Emotions
+- like
+- love
+- hate
+- want
+- need
+
+### Possession
+- have
+- own
+- belong
+
+### Senses
+- see
+- hear
+- smell
+- taste
+
+::: {.callout-tip}
+If the verb describes a **state** rather than an **action**, it is probably stative.
+:::
+
+## Stative verbs (usually NOT progressive)
+
+- *I **know** the answer.*  
+  ❌ *I am knowing the answer.*
+
+- *She **likes** coffee.*  
+  ❌ *She is liking coffee.*
+
+- *This bag **belongs** to me.*  
+  ❌ *This bag is belonging to me.*
+
+## When stative verbs CAN be progressive (change in meaning)
+
+Some stative verbs become **action verbs** in specific contexts.
+
+### think
+- *I **think** this is correct.* (opinion)
+- *I am **thinking** about my research.* (mental process now)
+
+### have
+- *I **have** a car.* (possession)
+- *I am **having** lunch.* (activity)
+
+### see
+- *I **see** what you mean.* (understand)
+- *I am **seeing** a doctor tomorrow.* (arrangement)
+
+### feel
+- *I **feel** tired.* (state)
+- *I am **feeling** better today.* (temporary change)
+
+## My examples
+
+- *I understand the instructions now.*  
+- *I am understanding this topic better as I practice.*
+
+**Why they work:**  
+The first sentence expresses a **state**; the second shows a **temporary change**
+during a learning process.
+
+## Real-world example (everyday language)
+
+> *I’m loving this course.*
+
+**Why it works:**  
+Although **love** is usually stative, the progressive is used here
+to emphasize a **temporary, strong feeling**, common in spoken English and advertising.
+
+::: {.callout-note}
+Using stative verbs in the progressive is often expressive
+and informal, especially in modern English.
+:::
+
+## Common mistakes
+
+- ❌ *I am knowing her for years.*  
+  ✅ *I have known her for years.*
+
+- ❌ *She is owning a house.*  
+  ✅ *She owns a house.*
+
+- ❌ *I am seeing what you mean.* (when you mean “understand”)  
+  ✅ *I see what you mean.*
+
+## Mini comparison
+
+- **State (simple form):**  
+  *I like this explanation.*
+
+- **Temporary feeling (progressive):**  
+  *I’m liking this explanation more and more.*
+
+## Why this grammar point matters
+
+Understanding stative verbs helps learners avoid unnatural sentences
+and recognize when progressive forms are used for **special emphasis**.

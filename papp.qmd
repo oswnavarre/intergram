@@ -1,9 +1,70 @@
 # Past Perfect Progressive
 
-*Rule**  •  Highlights the *ongoing* nature of a past action up to a second past moment.
+## Rule
 
-**Example (news headline – text + link)**
+We use the **past perfect progressive** to show that an action **started before a specific moment in the past** and **was still in progress up to that moment**.  
+The focus is on the **duration or ongoing nature** of the activity, not just the result.
 
-*“Factory workers **had been striking** for weeks when management finally agreed to negotiate.”* – *The Guardian*, 12 Apr 2023.
+## Form
 
-<https://www.theguardian.com/business/2023/apr/12/factory-workers-end-strike>
+**had + been + verb-ing**
+
+- I / You / We / They / He / She / It **had been + V-ing**  
+  → *She had been working all night.*
+
+## When to use it
+
+- **Duration before a past moment**:  
+  *He was tired because he had been studying for hours.*
+- **Background action interrupted by another past event**:  
+  *She had been waiting when the bus finally arrived.*
+- **Explaining causes in the past**:  
+  *They were angry because they had been arguing.*
+
+::: {.callout-tip}
+If you want to emphasize the **completed result**, use **past perfect simple** instead.  
+*He had written three emails* (result) vs. *He had been writing emails* (activity).
+:::
+
+## My example
+
+*Before the semester ended, I had been reviewing grammar topics every week.*
+
+**Why it works:**  
+The reviewing started earlier and continued **up to a specific moment in the past** (the end of the semester).
+
+## Real-world example (TV series – transcript)
+
+**South Park** – Season 14, Episode 13 (episode script)
+
+> *...a cult, in existence for years, that had been waiting for Cthulhu's arrival!*
+
+**Why it works:**  
+The cult started waiting **before** that past moment in the story and the waiting continued **up to that point**.  
+The focus is on the **long duration** (“for years”) before the past event.
+
+## Common mistakes
+
+- ✅ *She was tired because she had been working all day.*  
+  ❌ *She was tired because she had worked all day.* (possible, but focuses on result, not duration)
+
+- ❌ *They had been wait for hours.*  
+  ✅ *They had been waiting for hours.*
+
+- ❌ *He had been studying since two hours.*  
+  ✅ *He had been studying for two hours.*
+
+## Mini timeline
+
+- **Earlier past (ongoing)** → *had been + V-ing*  
+- **Later past event** → *simple past*
+
+Example:  
+*I **had been driving** for hours when I **realized** I was lost.*
+
+## Mini comparison
+
+- **Past perfect simple** → completed action  
+  *She had finished the report.*
+- **Past perfect progressive** → duration / background action  
+  *She had been working on the report all morning.*

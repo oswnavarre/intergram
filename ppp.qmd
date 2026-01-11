@@ -1,9 +1,85 @@
 # Present Perfect Progressive
 
-**Rule**  Emphasises *duration* of an activity that began in the past and continues now (often with **for/since**).
+## Rule 
 
-**Example (song lyric + still image)**
+We use the **present perfect progressive** to show that an action **started in the past** and is **still continuing now**, or has **just recently stopped** but its effects are still visible.  
+It emphasizes **duration** (how long) or the **ongoing activity**, not just the result.
 
-> *“I’ve been roaming around, always looking down at all I see…”* – Snow Patrol, *Chasing Cars* (0:03).
+## Form
 
-![Snow Patrol - "Chasing Cars"](snowpatrol.jpg)
+**have/has + been + verb-ing**
+
+- **I/You/We/They** have been + V-ing → *I have been studying.*
+- **He/She/It** has been + V-ing → *She has been studying.*
+
+### Common time expressions
+
+- **for** + period → *for two hours, for three years*
+- **since** + starting point → *since 2020, since Monday*
+- **lately / recently / all day / all week**
+
+## When to use it
+
+- **Duration up to now** (ongoing): *I have been working here since 2022.*
+- **Temporary activity** (not permanent): *She has been staying with a friend this week.*
+- **Recent activity with present evidence**: *You’ve been running* (you’re sweaty now).
+
+::: {.callout-tip}
+If you want to emphasize the **result** more than the duration, you often use **present perfect simple** instead.
+Example: *I’ve written three emails* (result) vs. *I’ve been writing emails* (activity).
+:::
+
+## My example
+
+*I have been building this grammar scrapbook for several weeks, and I’m still improving each page.*
+
+**Why it works:** The project started in the past, it has continued over time, and it is still ongoing now.
+
+## Real-world example (video)
+
+**Bruno Mars – “Uptown Funk”**
+
+> *Don’t believe me, just watch.*
+
+(We use the song mainly as a **multimedia example**. Now here’s a present perfect progressive line that appears in many real conversations and interviews:)
+
+**Interview-style example (real-world usage):**  
+*We have been working on this project for months.*
+
+**Why it works:** It highlights **how long** the work has continued up to the present.
+
+
+
+<div class="video">
+<iframe
+  width="900"
+  height="506"
+  src="https://www.youtube.com/embed/OPf0YbXqDm0"
+  title="Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+</div>
+
+## Common mistakes
+
+- ✅ *I have been living in Costa Rica for 3 years.* (duration emphasized; still true)  
+  ✅ *I have lived in Costa Rica for 3 years.* (also possible; more “state/result”)  
+  ❌ *I am living in Costa Rica for 3 years.* (incorrect)
+
+- ✅ *She has been studying all morning.* (activity + duration)  
+  ❌ *She has been studied all morning.* (wrong form)
+
+- ✅ *They have been waiting since 9:00.*  
+  ❌ *They have been waiting from 9:00.* (use **since**, not from, for a starting point)
+
+## Mini comparison: Simple vs Progressive
+
+- **Present perfect simple** → result / completed count: *I’ve read 5 articles.*
+- **Present perfect progressive** → activity / duration: *I’ve been reading articles all day.*
+
+## References
+
+- British Council: Present perfect continuous  
+- Cambridge Dictionary: Present perfect continuous

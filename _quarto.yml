@@ -3,8 +3,8 @@ project:
 
 book:
   title: "Intermediate Grammar Project"
-  author: "Oswaldo Navarrete C."
-  date: "6/11/2025"
+  author: ""
+  date: "01/11/2026"
   chapters:
     - index.qmd
     - intro.qmd
