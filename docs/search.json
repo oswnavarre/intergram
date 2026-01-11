@@ -4,9 +4,19 @@
     "href": "index.html",
     "title": "Intermediate Grammar Project",
     "section": "",
-    "text": "This is a project.",
+    "text": "1 Intermediate Grammar Project\nThis is my submission for the project of the Intermediate Grammar Specialization.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Intermediate Grammar Project</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This grammar scrapbook is the capstone project for the Intermediate Grammar Specialization.\nIts main purpose is to review, organize, and reflect on the most important grammar points covered throughout the program, while connecting them to real-life English usage.\nRather than presenting grammar as isolated rules, this scrapbook focuses on how grammar actually appears in everyday communication, such as conversations, classroom language, media, and professional contexts. Each grammar point is explained in my own words, followed by original examples and real-world examples that show how English is used naturally.\nThe scrapbook includes 15 key grammar topics, ranging from verb tenses and modal structures to adjective order and clause reduction. Each page follows a consistent structure to make the content clear and accessible:\na brief explanation of the rule, examples created by me, real-world language samples, and common mistakes learners often make.\nThis project also helped me become more aware of grammar in the English I encounter daily. While working on it, I noticed how often these structures appear in spoken English, written texts, and instructional language. As a result, the scrapbook is not only a review tool, but also a personal reference that I can return to in the future.\nOverall, this grammar scrapbook represents both a summary of what I have learned and a demonstration of my ability to use and explain English grammar meaningfully, beyond memorization of rules.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
@@ -14,7 +24,67 @@
     "href": "pps.html",
     "title": "3  Present Perfect Simple",
     "section": "",
-    "text": "Rule Connects a past action to the present; the result is what matters.\nExample (song lyric) — U2 – “I Still Haven’t Found What I’m Looking For”.\n\n\nI haven’t found what I’m looking for. – Present perfect marks an unfinished search whose impact is still felt now.",
+    "text": "3.1 Rule\nWe use the present perfect to connect a past action to the present.\nThe exact time is not important; the result or connection now is what matters.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#form",
+    "href": "pps.html#form",
+    "title": "3  Present Perfect Simple",
+    "section": "3.2 Form",
+    "text": "3.2 Form\nhave/has + past participle (V3)\n\nI/You/We/They have + V3 → I have finished.\nHe/She/It has + V3 → She has finished.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#when-to-use-it",
+    "href": "pps.html#when-to-use-it",
+    "title": "3  Present Perfect Simple",
+    "section": "3.3 When to use it",
+    "text": "3.3 When to use it\n\nLife experience (no specific time): I’ve visited Ecuador.\nRecent past with a present result: She has broken her arm (it affects now).\nUnfinished situation up to now (often with yet/already/just): I haven’t decided yet.\n\n\n\n\n\n\n\nTip\n\n\n\nIf you say when it happened (yesterday, in 2020, last week), you usually need simple past, not present perfect.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#my-example",
+    "href": "pps.html#my-example",
+    "title": "3  Present Perfect Simple",
+    "section": "3.4 My example",
+    "text": "3.4 My example\nI have taught statistics for years, so I have seen many common grammar mistakes.\nWhy it works: The action started in the past and has a clear connection to now (my experience today).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#real-world-example-song",
+    "href": "pps.html#real-world-example-song",
+    "title": "3  Present Perfect Simple",
+    "section": "3.5 Real-world example (song)",
+    "text": "3.5 Real-world example (song)\nU2 – “I Still Haven’t Found What I’m Looking For” (official music video)\n\nI haven’t found what I’m looking for.\n\nWhy it works: The search started in the past and is still unfinished now, so the present connection is clear.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#common-mistakes",
+    "href": "pps.html#common-mistakes",
+    "title": "3  Present Perfect Simple",
+    "section": "3.6 Common mistakes",
+    "text": "3.6 Common mistakes\n\n✅ I have lived in Costa Rica for 3 years. (still true now)\n❌ I lived in Costa Rica for 3 years. (sounds finished)\n✅ I have seen that movie. (experience)\n✅ I saw that movie last night. (specific time → simple past)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "pps.html#references",
+    "href": "pps.html#references",
+    "title": "3  Present Perfect Simple",
+    "section": "3.7 References",
+    "text": "3.7 References\n\nBritish Council: Present perfect\n\nCambridge Dictionary: Present perfect simple",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Present Perfect Simple</span>"
     ]
@@ -24,7 +94,77 @@
     "href": "ppp.html",
     "title": "4  Present Perfect Progressive",
     "section": "",
-    "text": "Rule Emphasises duration of an activity that began in the past and continues now (often with for/since).\nExample (song lyric + still image)\n\n“I’ve been roaming around, always looking down at all I see…” – Snow Patrol, Chasing Cars (0:03).\n\n\n\n\nSnow Patrol - “Chasing Cars”",
+    "text": "4.1 Rule\nWe use the present perfect progressive to show that an action started in the past and is still continuing now, or has just recently stopped but its effects are still visible.\nIt emphasizes duration (how long) or the ongoing activity, not just the result.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#form",
+    "href": "ppp.html#form",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.2 Form",
+    "text": "4.2 Form\nhave/has + been + verb-ing\n\nI/You/We/They have been + V-ing → I have been studying.\nHe/She/It has been + V-ing → She has been studying.\n\n\n4.2.1 Common time expressions\n\nfor + period → for two hours, for three years\nsince + starting point → since 2020, since Monday\nlately / recently / all day / all week",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#when-to-use-it",
+    "href": "ppp.html#when-to-use-it",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.3 When to use it",
+    "text": "4.3 When to use it\n\nDuration up to now (ongoing): I have been working here since 2022.\nTemporary activity (not permanent): She has been staying with a friend this week.\nRecent activity with present evidence: You’ve been running (you’re sweaty now).\n\n\n\n\n\n\n\nTip\n\n\n\nIf you want to emphasize the result more than the duration, you often use present perfect simple instead. Example: I’ve written three emails (result) vs. I’ve been writing emails (activity).",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#my-example",
+    "href": "ppp.html#my-example",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.4 My example",
+    "text": "4.4 My example\nI have been building this grammar scrapbook for several weeks, and I’m still improving each page.\nWhy it works: The project started in the past, it has continued over time, and it is still ongoing now.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#real-world-example-video",
+    "href": "ppp.html#real-world-example-video",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.5 Real-world example (video)",
+    "text": "4.5 Real-world example (video)\nBruno Mars – “Uptown Funk”\n\nDon’t believe me, just watch.\n\n(We use the song mainly as a multimedia example. Now here’s a present perfect progressive line that appears in many real conversations and interviews:)\nInterview-style example (real-world usage):\nWe have been working on this project for months.\nWhy it works: It highlights how long the work has continued up to the present.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#common-mistakes",
+    "href": "ppp.html#common-mistakes",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.6 Common mistakes",
+    "text": "4.6 Common mistakes\n\n✅ I have been living in Costa Rica for 3 years. (duration emphasized; still true)\n✅ I have lived in Costa Rica for 3 years. (also possible; more “state/result”)\n❌ I am living in Costa Rica for 3 years. (incorrect)\n✅ She has been studying all morning. (activity + duration)\n❌ She has been studied all morning. (wrong form)\n✅ They have been waiting since 9:00.\n❌ They have been waiting from 9:00. (use since, not from, for a starting point)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#mini-comparison-simple-vs-progressive",
+    "href": "ppp.html#mini-comparison-simple-vs-progressive",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.7 Mini comparison: Simple vs Progressive",
+    "text": "4.7 Mini comparison: Simple vs Progressive\n\nPresent perfect simple → result / completed count: I’ve read 5 articles.\nPresent perfect progressive → activity / duration: I’ve been reading articles all day.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "ppp.html#references",
+    "href": "ppp.html#references",
+    "title": "4  Present Perfect Progressive",
+    "section": "4.8 References",
+    "text": "4.8 References\n\nBritish Council: Present perfect continuous\n\nCambridge Dictionary: Present perfect continuous",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Present Perfect Progressive</span>"
     ]
@@ -34,7 +174,77 @@
     "href": "paps.html",
     "title": "5  Past Perfect Simple",
     "section": "",
-    "text": "Rule Describes an action that was completed before another point in the past.\nExample (film quote – text)\n\n“I had already locked the door before I realised the keys were inside.” – Mission: Impossible (1996).",
+    "text": "5.1 Rule\nWe use the past perfect simple to talk about an action that was completed before another action in the past.\nIt helps us make the order of past events clear when the sequence is important.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#form",
+    "href": "paps.html#form",
+    "title": "5  Past Perfect Simple",
+    "section": "5.2 Form",
+    "text": "5.2 Form\nhad + past participle (V3)\n\nI / You / We / They / He / She / It had + V3\n→ She had finished the report.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#when-to-use-it",
+    "href": "paps.html#when-to-use-it",
+    "title": "5  Past Perfect Simple",
+    "section": "5.3 When to use it",
+    "text": "5.3 When to use it\n\nTwo past actions, one happened first:\nShe left because she had finished her work.\nReported speech (looking back further in time):\nHe said he had already seen the movie.\nPast cause → past result:\nThey were tired because they had worked all night.\n\n\n\n\n\n\n\nTip\n\n\n\nIf the order of events is already clear (for example, with before/after), the simple past is sometimes enough.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#my-example",
+    "href": "paps.html#my-example",
+    "title": "5  Past Perfect Simple",
+    "section": "5.4 My example",
+    "text": "5.4 My example\nBy the time the class started, I had already prepared all the materials.\nWhy it works:\nPreparing the materials happened before the class started (both are in the past, but one is earlier).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#real-world-example-tv-series",
+    "href": "paps.html#real-world-example-tv-series",
+    "title": "5  Past Perfect Simple",
+    "section": "5.5 Real-world example (TV series)",
+    "text": "5.5 Real-world example (TV series)\nFriends – Season 2\n\nI had never seen anything like that before.\n\nWhy it works:\nThe experience (seeing something) happened before the moment the character is talking about in the past.\n\n\n\n\n\n\nNote\n\n\n\nPast perfect is very common in TV series when characters explain background information or earlier experiences.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#common-mistakes",
+    "href": "paps.html#common-mistakes",
+    "title": "5  Past Perfect Simple",
+    "section": "5.6 Common mistakes",
+    "text": "5.6 Common mistakes\n\n✅ When I arrived, they had already left.\n❌ When I arrived, they already left. (sequence unclear)\n✅ She had finished her homework before she went out.\n❌ She finished her homework before she had gone out. (wrong tense order)\n❌ She had went home.\n✅ She had gone home. (use past participle, not past tense)",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#mini-timeline",
+    "href": "paps.html#mini-timeline",
+    "title": "5  Past Perfect Simple",
+    "section": "5.7 Mini timeline",
+    "text": "5.7 Mini timeline\n\nEarlier past → had + V3\n\nLater past → simple past\n\nExample:\nI realized I had forgotten my keys when I got to the office.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
+    ]
+  },
+  {
+    "objectID": "paps.html#references",
+    "href": "paps.html#references",
+    "title": "5  Past Perfect Simple",
+    "section": "5.8 References",
+    "text": "5.8 References\n\nBritish Council: Past perfect\n\nCambridge Dictionary: Past perfect simple",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Past Perfect Simple</span>"
     ]
@@ -44,7 +254,77 @@
     "href": "papp.html",
     "title": "6  Past Perfect Progressive",
     "section": "",
-    "text": "*Rule** • Highlights the ongoing nature of a past action up to a second past moment.\nExample (news headline – text + link)\n“Factory workers had been striking for weeks when management finally agreed to negotiate.” – The Guardian, 12 Apr 2023.\nhttps://www.theguardian.com/business/2023/apr/12/factory-workers-end-strike",
+    "text": "6.1 Rule\nWe use the past perfect progressive to show that an action started before a specific moment in the past and was still in progress up to that moment.\nThe focus is on the duration or ongoing nature of the activity, not just the result.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#form",
+    "href": "papp.html#form",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.2 Form",
+    "text": "6.2 Form\nhad + been + verb-ing\n\nI / You / We / They / He / She / It had been + V-ing\n→ She had been working all night.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#when-to-use-it",
+    "href": "papp.html#when-to-use-it",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.3 When to use it",
+    "text": "6.3 When to use it\n\nDuration before a past moment:\nHe was tired because he had been studying for hours.\nBackground action interrupted by another past event:\nShe had been waiting when the bus finally arrived.\nExplaining causes in the past:\nThey were angry because they had been arguing.\n\n\n\n\n\n\n\nTip\n\n\n\nIf you want to emphasize the completed result, use past perfect simple instead.\nHe had written three emails (result) vs. He had been writing emails (activity).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#my-example",
+    "href": "papp.html#my-example",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.4 My example",
+    "text": "6.4 My example\nBefore the semester ended, I had been reviewing grammar topics every week.\nWhy it works:\nThe reviewing started earlier and continued up to a specific moment in the past (the end of the semester).",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#real-world-example-tv-series-transcript",
+    "href": "papp.html#real-world-example-tv-series-transcript",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.5 Real-world example (TV series – transcript)",
+    "text": "6.5 Real-world example (TV series – transcript)\nSouth Park – Season 14, Episode 13 (episode script)\n\n…a cult, in existence for years, that had been waiting for Cthulhu’s arrival!\n\nWhy it works:\nThe cult started waiting before that past moment in the story and the waiting continued up to that point.\nThe focus is on the long duration (“for years”) before the past event.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#common-mistakes",
+    "href": "papp.html#common-mistakes",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.6 Common mistakes",
+    "text": "6.6 Common mistakes\n\n✅ She was tired because she had been working all day.\n❌ She was tired because she had worked all day. (possible, but focuses on result, not duration)\n❌ They had been wait for hours.\n✅ They had been waiting for hours.\n❌ He had been studying since two hours.\n✅ He had been studying for two hours.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#mini-timeline",
+    "href": "papp.html#mini-timeline",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.7 Mini timeline",
+    "text": "6.7 Mini timeline\n\nEarlier past (ongoing) → had been + V-ing\n\nLater past event → simple past\n\nExample:\nI had been driving for hours when I realized I was lost.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
+    ]
+  },
+  {
+    "objectID": "papp.html#mini-comparison",
+    "href": "papp.html#mini-comparison",
+    "title": "6  Past Perfect Progressive",
+    "section": "6.8 Mini comparison",
+    "text": "6.8 Mini comparison\n\nPast perfect simple → completed action\nShe had finished the report.\nPast perfect progressive → duration / background action\nShe had been working on the report all morning.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Past Perfect Progressive</span>"
     ]
@@ -54,7 +334,97 @@
     "href": "mopp.html",
     "title": "7  Modals of Possibility and Probability",
     "section": "",
-    "text": "Rule Express different degrees of certainty. Must ≈ 90%, may ≈ 50 %, might/could ≈ 30 %.\nExample (TV weather forecast – video)\n\n“It might rain tonight, so keep an umbrella handy.”",
+    "text": "7.1 Rule\nWe use modals of possibility and probability to express how sure or unsure we are about a situation.\nThey help us show degrees of certainty, not facts.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#main-modals-and-meaning",
+    "href": "mopp.html#main-modals-and-meaning",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.2 Main modals and meaning",
+    "text": "7.2 Main modals and meaning\n\n\n\nModal\nDegree of certainty\nMeaning\n\n\n\n\nmight / may / could\nlow–medium\nsomething is possible\n\n\nmust\nvery high\nwe are almost sure\n\n\ncan’t / couldn’t\nvery low\nsomething is almost impossible",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#form",
+    "href": "mopp.html#form",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.3 Form",
+    "text": "7.3 Form\nmodal + base verb\n\nShe might be at home.\nThey must be tired.\nHe can’t be serious.\n\n\n\n\n\n\n\nTip\n\n\n\nThese modals are followed by the base form of the verb (no to, no -s).",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#when-to-use-them",
+    "href": "mopp.html#when-to-use-them",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.4 When to use them",
+    "text": "7.4 When to use them\n\nGuessing about the present:\nHe isn’t answering — he might be busy.\nLogical conclusions:\nThe lights are off; they must be asleep.\nRejecting an idea:\nThat can’t be the answer.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#my-example",
+    "href": "mopp.html#my-example",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.5 My example",
+    "text": "7.5 My example\nSome students might feel confused at first, but they must improve with practice.\nWhy it works:\nThe speaker shows uncertainty (might) and then a **strong logical belief* (must).",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#real-world-example-tv-series-dialogue",
+    "href": "mopp.html#real-world-example-tv-series-dialogue",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.6 Real-world example (TV series – dialogue)",
+    "text": "7.6 Real-world example (TV series – dialogue)\nFriends\n\nShe must be stuck in traffic.\n\nWhy it works:\nThe speaker does not have complete information, but based on the situation, they make a logical conclusion using must.\n\n\n\n\n\n\nNote\n\n\n\nIn everyday conversations and TV series, these modals are very common for guessing, explaining, or reacting to situations.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#real-world-example-news-style-language",
+    "href": "mopp.html#real-world-example-news-style-language",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.7 Real-world example (news-style language)",
+    "text": "7.7 Real-world example (news-style language)\n\nThe increase in temperatures could affect agricultural production.\n\nWhy it works:\nNews and reports often use could to express possible consequences without sounding too certain.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#common-mistakes",
+    "href": "mopp.html#common-mistakes",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.8 Common mistakes",
+    "text": "7.8 Common mistakes\n\n❌ She must to be tired.\n✅ She must be tired.\n❌ He might is late.\n✅ He might be late.\n❌ That mustn’t be true. (wrong meaning)\n✅ That can’t be true. (logical impossibility)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#mini-comparison",
+    "href": "mopp.html#mini-comparison",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.9 Mini comparison",
+    "text": "7.9 Mini comparison\n\nmight / may / could → possibility\nIt might rain later.\nmust → strong probability\nIt must be raining; the streets are wet.\ncan’t → logical impossibility\nHe can’t be at home; I just saw him leave.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
+    ]
+  },
+  {
+    "objectID": "mopp.html#why-this-grammar-point-matters",
+    "href": "mopp.html#why-this-grammar-point-matters",
+    "title": "7  Modals of Possibility and Probability",
+    "section": "7.10 Why this grammar point matters",
+    "text": "7.10 Why this grammar point matters\nThese modals allow speakers to sound natural, polite, and realistic when they are not 100 % sure, which is very common in real communication.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Modals of Possibility and Probability</span>"
     ]
@@ -64,9 +434,859 @@
     "href": "phm.html",
     "title": "8  Phrasal Modals",
     "section": "",
-    "text": "Rule Multi‑word expressions functioning like core modals.\nExample (song lyric – audio)\n\n\n“You’ve got to hide your love away…” – The Beatles (1965).",
+    "text": "8.1 Rule\nPhrasal modals are multi-word expressions that work like modal verbs. They express ideas such as obligation, advice, expectation, or ability. They are common in everyday English because they often sound more natural than single modals.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#common-phrasal-modals-and-meaning",
+    "href": "phm.html#common-phrasal-modals-and-meaning",
+    "title": "8  Phrasal Modals",
+    "section": "8.2 Common phrasal modals and meaning",
+    "text": "8.2 Common phrasal modals and meaning\n\n\n\n\n\n\n\n\nPhrasal modal\nMeaning\nTypical context\n\n\n\n\nhave (got) to\nstrong obligation / necessity\nrules, deadlines\n\n\nbe able to\nability (present/future/past)\nskills, possibility\n\n\nought to\nadvice / expectation (moral “should”)\nrecommendations\n\n\nbe supposed to\nexpectation / rule / plan\nduties, rules, schedules\n\n\nbe going to\nplanned intention / strong prediction\nplans, evidence",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#form-and-grammar-notes",
+    "href": "phm.html#form-and-grammar-notes",
+    "title": "8  Phrasal Modals",
+    "section": "8.3 Form and grammar notes",
+    "text": "8.3 Form and grammar notes\n\n8.3.1 have (got) to\n\nPresent: I have to leave. / I’ve got to leave.\nPast: I had to leave.\nNegative: I don’t have to leave. (no necessity)\n\n\n\n\n\n\n\nTip\n\n\n\nDon’t have to = not necessary\nMustn’t = prohibited (very different meaning)\n\n\n\n\n8.3.2 ought to\n\nYou ought to study more.\n(“to” is part of the structure)\n\n\n\n8.3.3 be able to\n\nI am able to help today.\n\nI was able to fix it yesterday. (useful when “could” is ambiguous)\n\n\n\n8.3.4 be supposed to\n\nWe are supposed to submit it by Friday. (expectation / rule)\nThe bus is supposed to arrive at 8. (schedule)",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#when-to-use-them",
+    "href": "phm.html#when-to-use-them",
+    "title": "8  Phrasal Modals",
+    "section": "8.4 When to use them",
+    "text": "8.4 When to use them\n\nObligation / necessity: I’ve got to finish this today.\nAdvice / expectation: You ought to sleep earlier.\nAbility across tenses: She was able to solve it quickly.\nRules / expectations / plans: You’re supposed to sign here.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#my-example",
+    "href": "phm.html#my-example",
+    "title": "8  Phrasal Modals",
+    "section": "8.5 My example",
+    "text": "8.5 My example\nI’ve got to update my Quarto site this week, and I’m supposed to submit the final link on time.\nWhy it works:\nBoth expressions communicate obligation/expectation in a natural way.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#real-world-example-tv-seriesstyle-dialogue",
+    "href": "phm.html#real-world-example-tv-seriesstyle-dialogue",
+    "title": "8  Phrasal Modals",
+    "section": "8.6 Real-world example (TV series–style dialogue)",
+    "text": "8.6 Real-world example (TV series–style dialogue)\nFriends (dialogue style)\n\nWe’re supposed to be there at 7.\nI’ve got to go now.\n\nWhy it works:\nThese phrasal modals sound very natural in spoken English. They show: - expected plan/rule (supposed to) - strong necessity (have got to)\n\n\n\n\n\n\nNote\n\n\n\nIf video clips are blocked, a dialogue-style “real-world” example still reflects authentic spoken English (the way people actually talk in sitcoms and daily life).",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#common-mistakes",
+    "href": "phm.html#common-mistakes",
+    "title": "8  Phrasal Modals",
+    "section": "8.7 Common mistakes",
+    "text": "8.7 Common mistakes\n\n❌ I have to to go.\n✅ I have to go.\n❌ You ought study more.\n✅ You ought to study more.\n❌ I don’t have to go = I mustn’t go.\n✅ I don’t have to go (not necessary)\n✅ I mustn’t go (not allowed)\n❌ I am able to go yesterday.\n✅ I was able to go yesterday.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "phm.html#mini-comparison",
+    "href": "phm.html#mini-comparison",
+    "title": "8  Phrasal Modals",
+    "section": "8.8 Mini comparison",
+    "text": "8.8 Mini comparison\n\nmust (strong obligation, often formal)\nI must finish this report.\nhave to / have got to (strong obligation, very common in conversation)\nI’ve got to finish this report.\nshould / ought to (advice)\nYou ought to rest.\ncan / be able to (ability; “be able to” works better across tenses)\nI wasn’t able to join the meeting yesterday.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Phrasal Modals</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html",
+    "href": "oad.html",
+    "title": "9  Order of Adjectives",
+    "section": "",
+    "text": "9.1 Rule\nIn English, when we use more than one adjective before a noun, they usually follow a natural and fixed order.\nNative speakers don’t think about the rule consciously, but changing the order often sounds unnatural.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#the-usual-adjective-order",
+    "href": "oad.html#the-usual-adjective-order",
+    "title": "9  Order of Adjectives",
+    "section": "9.2 The usual adjective order",
+    "text": "9.2 The usual adjective order\nOpinion → Size → Age → Shape → Color → Origin → Material → Purpose → Noun\n\n9.2.1 Example pattern\n\na beautiful small old round brown Italian wooden coffee table\n\n\n\n\n\n\n\nTip\n\n\n\nYou don’t need to use all categories. Most sentences use two or three adjectives at most.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#common-categories-with-examples",
+    "href": "oad.html#common-categories-with-examples",
+    "title": "9  Order of Adjectives",
+    "section": "9.3 Common categories with examples",
+    "text": "9.3 Common categories with examples\n\n\n\nCategory\nExample adjectives\n\n\n\n\nOpinion\nbeautiful, interesting, terrible\n\n\nSize\nbig, small, tiny\n\n\nAge\nold, new, modern\n\n\nShape\nround, square, long\n\n\nColor\nred, blue, dark\n\n\nOrigin\nItalian, Costa Rican\n\n\nMaterial\nwooden, metal, plastic\n\n\nPurpose\ncoffee (table), running (shoes)",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#my-examples",
+    "href": "oad.html#my-examples",
+    "title": "9  Order of Adjectives",
+    "section": "9.4 My examples",
+    "text": "9.4 My examples\n\nShe bought a beautiful small old house near the university.\n\nI use a large new metal water bottle every day.\n\nWhy they work:\nThe adjectives follow the expected order, so the sentences sound natural and fluent.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#real-world-example-everyday-language",
+    "href": "oad.html#real-world-example-everyday-language",
+    "title": "9  Order of Adjectives",
+    "section": "9.5 Real-world example (everyday language)",
+    "text": "9.5 Real-world example (everyday language)\n\na big old red bus\n\nWhy it works:\nThe speaker describes size → age → color before the noun, which follows the natural English pattern.\n\n\n\n\n\n\nNote\n\n\n\nThis order appears constantly in everyday speech, advertising, and product descriptions, even if speakers are not aware of the rule.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#common-mistakes",
+    "href": "oad.html#common-mistakes",
+    "title": "9  Order of Adjectives",
+    "section": "9.6 Common mistakes",
+    "text": "9.6 Common mistakes\n\n❌ a red big car\n✅ a big red car\n❌ a wooden old table\n✅ an old wooden table\n❌ an Italian beautiful painting\n✅ a beautiful Italian painting",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#mini-practice-check",
+    "href": "oad.html#mini-practice-check",
+    "title": "9  Order of Adjectives",
+    "section": "9.7 Mini practice check",
+    "text": "9.7 Mini practice check\nWhich one sounds better?\n\na small black leather bag ✅\n\na leather black small bag ❌",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "oad.html#why-this-grammar-point-matters",
+    "href": "oad.html#why-this-grammar-point-matters",
+    "title": "9  Order of Adjectives",
+    "section": "9.8 Why this grammar point matters",
+    "text": "9.8 Why this grammar point matters\nCorrect adjective order helps learners sound more natural and fluent, even when they already know many adjectives.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Order of Adjectives</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html",
+    "href": "acsp.html",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "",
+    "text": "10.1 Rule\nAn adjective clause (relative clause) describes a noun.\nWhen the relative pronoun (who / that / which) is the subject of the clause, we must keep it (we cannot omit it).",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#which-pronoun-to-use",
+    "href": "acsp.html#which-pronoun-to-use",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.2 Which pronoun to use",
+    "text": "10.2 Which pronoun to use\n\nwho → for people\nThe student who asked the question is here.\nwhich → for things/animals\nThe book which explains this topic is helpful.\nthat → for people or things (more informal/neutral)\nThe app that I use is free.\n\n\n\n\n\n\n\nTip\n\n\n\nIf the pronoun is the subject, you cannot delete it: ✅ The teacher who explains clearly is popular.\n❌ The teacher explains clearly is popular.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#how-to-recognize-a-subject-pronoun-clause",
+    "href": "acsp.html#how-to-recognize-a-subject-pronoun-clause",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.3 How to recognize a “subject pronoun” clause",
+    "text": "10.3 How to recognize a “subject pronoun” clause\nLook inside the adjective clause:\n\nIf who/that/which is doing the verb → it’s the subject.\n\nwho teaches… → “who” teaches (subject)\n\n\nExamples: - The man who lives next door is friendly.\n- The movie that starts at 7 is sold out.\n- The device which measures rainfall is accurate.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#my-examples",
+    "href": "acsp.html#my-examples",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.4 My examples",
+    "text": "10.4 My examples\n\nI have a colleague who teaches online statistics.\n\nThis is a website that helps learners practice grammar.\n\nI bought a sensor which measures temperature and humidity.\n\nWhy they work:\nIn each adjective clause, the pronoun (who/that/which) is the subject of the verb (teaches / helps / measures), so it cannot be omitted.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#real-world-example-everyday-language",
+    "href": "acsp.html#real-world-example-everyday-language",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.5 Real-world example (everyday language)",
+    "text": "10.5 Real-world example (everyday language)\n\nLooking for someone who can help with English?\n\nWhy it works:\nThis type of sentence is common in ads, posts, and conversations.\nThe clause who can help describes someone, and who is the subject of can help.\n\n\n\n\n\n\nNote\n\n\n\n“Who/that/which as subject” clauses appear constantly in real communication: advertisements, job posts, classroom instructions, and casual speech.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#common-mistakes",
+    "href": "acsp.html#common-mistakes",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.6 Common mistakes",
+    "text": "10.6 Common mistakes\n\n❌ I know a person can fix computers.\n✅ I know a person who can fix computers.\n❌ This is the book explains adjective clauses.\n✅ This is the book that explains adjective clauses.\n❌ The phone which I bought yesterday is expensive. (not wrong, but too formal sometimes)\n✅ The phone that I bought yesterday is expensive. (more common in speech)",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#mini-comparison-subject-vs.-object-pronoun-important",
+    "href": "acsp.html#mini-comparison-subject-vs.-object-pronoun-important",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.7 Mini comparison: subject vs. object pronoun (important)",
+    "text": "10.7 Mini comparison: subject vs. object pronoun (important)\n\nSubject pronoun (cannot omit)\nThe woman who lives here is my neighbor. ✅\n(who = subject of lives)\nObject pronoun (can omit)\nThe woman (who) I met yesterday is my neighbor. ✅\n(who = object of met → optional)",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "acsp.html#why-this-grammar-point-matters",
+    "href": "acsp.html#why-this-grammar-point-matters",
+    "title": "10  Adjective Clauses – Subject Pronouns",
+    "section": "10.8 Why this grammar point matters",
+    "text": "10.8 Why this grammar point matters\nUsing adjective clauses correctly helps learners write and speak with more detail, without creating long, repetitive sentences.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Adjective Clauses – Subject Pronouns</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html",
+    "href": "rac.html",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "",
+    "text": "11.1 Rule\nA reduced adjective clause is a shorter version of an adjective (relative) clause.\nWe reduce the clause when the relative pronoun is the subject and the verb is: - be + verb-ing, or - be + adjective / noun\nThe goal is to make sentences shorter and more natural, especially in writing.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#basic-reduction-patterns",
+    "href": "rac.html#basic-reduction-patterns",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.2 Basic reduction patterns",
+    "text": "11.2 Basic reduction patterns\n\n11.2.1 1. be + verb-ing → verb-ing\n\nFull clause:\nThe student who is studying online needs help.\nReduced clause:\nThe student studying online needs help.\n\n\n\n11.2.2 2. be + adjective / noun → adjective / noun phrase\n\nFull clause:\nThe device that is new works well.\nReduced clause:\nThe new device works well.\n\n\n\n\n\n\n\nTip\n\n\n\nYou can only reduce the clause if who/that/which is the subject of the adjective clause.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#when-you-can-reduce-and-when-you-cant",
+    "href": "rac.html#when-you-can-reduce-and-when-you-cant",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.3 When you can reduce (and when you can’t)",
+    "text": "11.3 When you can reduce (and when you can’t)\n\n11.3.1 You can reduce:\n\nThe report that is written in English is clear.\n→ The report written in English is clear.\n\n\n\n11.3.2 You cannot reduce:\n\nThe report that I wrote is clear. ❌\n(“that” is the object of wrote, not the subject)",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#my-examples",
+    "href": "rac.html#my-examples",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.4 My examples",
+    "text": "11.4 My examples\n\nStudents taking online courses need good time management skills.\n\nThe files stored on the server are backed up daily.\n\nEquipment used in the lab must be cleaned.\n\nWhy they work:\nIn each case, the relative pronoun is the subject, so the clause can be reduced.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#real-world-example-formal-writing-style",
+    "href": "rac.html#real-world-example-formal-writing-style",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.5 Real-world example (formal writing style)",
+    "text": "11.5 Real-world example (formal writing style)\n\nApplicants interested in the position should apply online.\n\nWhy it works:\nThis structure is very common in job ads, instructions, and academic writing. The reduced clause makes the sentence clear and concise.\n\n\n\n\n\n\nNote\n\n\n\nReduced adjective clauses are especially frequent in written English (job postings, manuals, reports).",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#common-mistakes",
+    "href": "rac.html#common-mistakes",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.6 Common mistakes",
+    "text": "11.6 Common mistakes\n\n❌ The man talking to I met yesterday.\n✅ The man who I met yesterday. (cannot reduce)\n❌ The students are studying online need help.\n✅ The students studying online need help.\n❌ The report that written in English is long.\n✅ The report written in English is long.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#mini-comparison-full-vs.-reduced",
+    "href": "rac.html#mini-comparison-full-vs.-reduced",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.7 Mini comparison: full vs. reduced",
+    "text": "11.7 Mini comparison: full vs. reduced\n\nFull: The book which is used in the course is expensive.\n\nReduced: The book used in the course is expensive.\nFull: The people who are waiting outside are students.\n\nReduced: The people waiting outside are students.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "rac.html#why-this-grammar-point-matters",
+    "href": "rac.html#why-this-grammar-point-matters",
+    "title": "11  Reduced Adjective Clauses",
+    "section": "11.8 Why this grammar point matters",
+    "text": "11.8 Why this grammar point matters\nReduced adjective clauses help learners write more efficiently and professionally, especially in academic and formal contexts.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Reduced Adjective Clauses</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html",
+    "href": "gvi.html",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "",
+    "text": "12.1 Rule\nSome verbs in English are followed by a gerund (verb + -ing), others by an infinitive (to + base verb), and a few can use both with little or no change in meaning.\nThis choice depends on the verb, not on the tense.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#gerunds--ing",
+    "href": "gvi.html#gerunds--ing",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.2 Gerunds (-ing)",
+    "text": "12.2 Gerunds (-ing)\n\n12.2.1 Common verbs followed by gerunds\n\nenjoy\n\navoid\n\nfinish\n\nconsider\n\nkeep\n\nsuggest\n\n\n\n12.2.2 Examples\n\nI enjoy teaching statistics.\nShe avoided answering the question.\nThey finished working late.\n\n\n\n\n\n\n\nTip\n\n\n\nGerunds often describe activities or experiences.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#infinitives-to-verb",
+    "href": "gvi.html#infinitives-to-verb",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.3 Infinitives (to + verb)",
+    "text": "12.3 Infinitives (to + verb)\n\n12.3.1 Common verbs followed by infinitives\n\nwant\n\ndecide\n\nplan\n\nhope\n\nneed\n\nagree\n\n\n\n12.3.2 Examples\n\nI want to learn more about grammar.\nThey decided to leave early.\nShe hopes to improve her English.\n\n\n\n\n\n\n\nTip\n\n\n\nInfinitives often express intentions, goals, or plans.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#verbs-that-can-use-both-meaning-stays-similar",
+    "href": "gvi.html#verbs-that-can-use-both-meaning-stays-similar",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.4 Verbs that can use both (meaning stays similar)",
+    "text": "12.4 Verbs that can use both (meaning stays similar)\n\nbegin\n\nstart\n\ncontinue\n\nlike\n\nlove\n\nExamples: - It started raining.\n- It started to rain.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#verbs-that-change-meaning",
+    "href": "gvi.html#verbs-that-change-meaning",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.5 Verbs that change meaning",
+    "text": "12.5 Verbs that change meaning\n\n\n\nVerb\nGerund (-ing)\nInfinitive (to + verb)\n\n\n\n\nremember\nremember a past action\nremember to do something\n\n\nstop\nstop an activity\nstop in order to do something\n\n\ntry\nexperiment\nmake an effort\n\n\nforget\nforget a past action\nforget to do something\n\n\n\nExamples: - I remember locking the door. (memory)\n- Remember to lock the door. (instruction)\n\nShe stopped smoking. (quit)\n\nShe stopped to smoke. (purpose)",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#my-examples",
+    "href": "gvi.html#my-examples",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.6 My examples",
+    "text": "12.6 My examples\n\nI enjoy working with real data, but I also like to explain grammar rules clearly.\nI remembered saving the file, but I forgot to upload it.\n\nWhy they work:\nEach verb requires either a gerund or an infinitive depending on its meaning.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#real-world-example-everyday-language",
+    "href": "gvi.html#real-world-example-everyday-language",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.7 Real-world example (everyday language)",
+    "text": "12.7 Real-world example (everyday language)\n\nDon’t forget to bring your ID.\n\nWhy it works:\nIn everyday instructions, forget + to + verb is used for actions that are still expected to happen.\n\n\n\n\n\n\nNote\n\n\n\nThis contrast (past memory vs. future responsibility) is one of the most important differences for learners.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#common-mistakes",
+    "href": "gvi.html#common-mistakes",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.8 Common mistakes",
+    "text": "12.8 Common mistakes\n\n❌ I enjoy to teach.\n✅ I enjoy teaching.\n❌ She decided going home.\n✅ She decided to go home.\n❌ I stopped to study English. (if you mean “quit”)\n✅ I stopped studying English.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#mini-comparison",
+    "href": "gvi.html#mini-comparison",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.9 Mini comparison",
+    "text": "12.9 Mini comparison\n\nGerund → activity or experience\nI like swimming.\nInfinitive → intention or goal\nI like to swim before work.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "gvi.html#why-this-grammar-point-matters",
+    "href": "gvi.html#why-this-grammar-point-matters",
+    "title": "12  Gerunds vs. Infinitives",
+    "section": "12.10 Why this grammar point matters",
+    "text": "12.10 Why this grammar point matters\nChoosing between gerunds and infinitives correctly helps learners avoid very common errors and sound more natural in both speech and writing.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Gerunds vs. Infinitives</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html",
+    "href": "cvnc.html",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "",
+    "text": "13.1 Rule\nIn English, count nouns are things we can count individually, while non-count (uncountable) nouns refer to things we see as a whole or as a mass. Because of this difference, they use different quantifiers.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#count-nouns",
+    "href": "cvnc.html#count-nouns",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.2 Count nouns",
+    "text": "13.2 Count nouns\n\n13.2.1 Key features\n\nHave singular and plural forms\nUse a / an in the singular\nUse numbers\n\n\n\n13.2.2 Examples\n\na book / two books\none student / many students\nfew questions",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#non-count-nouns",
+    "href": "cvnc.html#non-count-nouns",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.3 Non-count nouns",
+    "text": "13.3 Non-count nouns\n\n13.3.1 Key features\n\nDo not have a plural form\nDo not use a / an\nUse measurement expressions instead\n\n\n\n13.3.2 Examples\n\ninformation (not informations)\nadvice (not advices)\nequipment (not equipments)\nwater, money, research\n\n\n\n\n\n\n\nTip\n\n\n\nTo “count” non-count nouns, use expressions like: a piece of, a bit of, a cup of, a lot of.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#common-quantifiers",
+    "href": "cvnc.html#common-quantifiers",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.4 Common quantifiers",
+    "text": "13.4 Common quantifiers\n\n\n\nQuantifier\nCount\nNon-count\nExample\n\n\n\n\nmany\n✔\n✖\nmany students\n\n\nmuch\n✖\n✔\nmuch information\n\n\na lot of / lots of\n✔\n✔\na lot of work\n\n\nfew\n✔\n✖\nfew mistakes\n\n\nlittle\n✖\n✔\nlittle time\n\n\nsome / any\n✔\n✔\nsome data",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#my-examples",
+    "href": "cvnc.html#my-examples",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.5 My examples",
+    "text": "13.5 My examples\n\nThere are many students in the class but little time to review everything.\nI received a lot of advice during my research project.\n\nWhy they work:\nThe quantifiers match the noun type (count vs. non-count).",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#real-world-example-everyday-language",
+    "href": "cvnc.html#real-world-example-everyday-language",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.6 Real-world example (everyday language)",
+    "text": "13.6 Real-world example (everyday language)\n\nWe don’t have much time, but we still have a few options.\n\nWhy it works:\nThis sentence contrasts non-count (time) with count (options), using the correct quantifiers for each.\n\n\n\n\n\n\nNote\n\n\n\nThese contrasts appear constantly in conversations, meetings, and academic contexts.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#common-mistakes",
+    "href": "cvnc.html#common-mistakes",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.7 Common mistakes",
+    "text": "13.7 Common mistakes\n\n❌ many information\n✅ much information\n❌ few money\n✅ little money\n❌ an advice\n✅ a piece of advice\n❌ informations\n✅ information",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#mini-comparison",
+    "href": "cvnc.html#mini-comparison",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.8 Mini comparison",
+    "text": "13.8 Mini comparison\n\nfew → count nouns (negative idea)\nFew students understood the topic.\na few → count nouns (positive idea)\nA few students asked questions.\nlittle → non-count nouns (negative idea)\nLittle progress was made.\na little → non-count nouns (positive idea)\nA little progress was made.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cvnc.html#why-this-grammar-point-matters",
+    "href": "cvnc.html#why-this-grammar-point-matters",
+    "title": "13  Count vs. Non‑count Nouns and Quantifiers",
+    "section": "13.9 Why this grammar point matters",
+    "text": "13.9 Why this grammar point matters\nUnderstanding count and non-count nouns helps learners choose the correct articles and quantifiers, especially in academic and professional English.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Count vs. Non‑count Nouns and Quantifiers</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html",
+    "href": "cas.html",
+    "title": "14  Comparatives and Superlatives",
+    "section": "",
+    "text": "14.1 Rule\nWe use comparatives to compare two people or things, and superlatives to compare three or more.\nThe form depends on the length of the adjective and whether it is irregular.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#comparative-adjectives",
+    "href": "cas.html#comparative-adjectives",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.2 Comparative adjectives",
+    "text": "14.2 Comparative adjectives\n\n14.2.1 Short adjectives (one syllable)\nadjective + -er\n\nsmall → smaller\nfast → faster\ntall → taller\n\nExamples: - This room is smaller than the other one. - Data analysis is faster with better tools.\n\n\n14.2.2 Long adjectives (two or more syllables)\nmore + adjective\n\nmore interesting\nmore expensive\nmore comfortable\n\nExamples: - Online classes are more flexible than traditional ones.\n\n\n\n\n\n\nTip\n\n\n\nSome two-syllable adjectives (ending in -y) behave like short adjectives: happy → happier",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#superlative-adjectives",
+    "href": "cas.html#superlative-adjectives",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.3 Superlative adjectives",
+    "text": "14.3 Superlative adjectives\n\n14.3.1 Short adjectives\nthe + adjective + -est\n\nsmall → the smallest\nfast → the fastest\n\nExamples: - This is the easiest topic in the unit.\n\n\n14.3.2 Long adjectives\nthe most + adjective\n\nthe most important\nthe most difficult\n\nExamples: - Grammar is one of the most important skills for clear communication.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#irregular-forms",
+    "href": "cas.html#irregular-forms",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.4 Irregular forms",
+    "text": "14.4 Irregular forms\n\n\n\nAdjective\nComparative\nSuperlative\n\n\n\n\ngood\nbetter\nthe best\n\n\nbad\nworse\nthe worst\n\n\nfar\nfarther / further\nthe farthest / the furthest",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#my-examples",
+    "href": "cas.html#my-examples",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.5 My examples",
+    "text": "14.5 My examples\n\nThis explanation is clearer than the previous one.\nThis is the most useful grammar page in the scrapbook.\n\nWhy they work:\nThe first sentence compares two explanations; the second compares many pages.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#real-world-example-everyday-language",
+    "href": "cas.html#real-world-example-everyday-language",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.6 Real-world example (everyday language)",
+    "text": "14.6 Real-world example (everyday language)\n\nThis is the best option for beginners.\n\nWhy it works:\nAdvertising and everyday speech often use superlatives to highlight something as the top choice among many options.\n\n\n\n\n\n\nNote\n\n\n\nComparatives and superlatives are very common in reviews, ads, and informal recommendations.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#common-mistakes",
+    "href": "cas.html#common-mistakes",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.7 Common mistakes",
+    "text": "14.7 Common mistakes\n\n❌ more easier\n✅ easier\n❌ the most fastest\n✅ the fastest\n❌ She is more smart than her sister.\n✅ She is smarter than her sister.\n❌ This is the better option. (when comparing many)\n✅ This is the best option.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#mini-comparison",
+    "href": "cas.html#mini-comparison",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.8 Mini comparison",
+    "text": "14.8 Mini comparison\n\nComparative → two items\nThis task is harder than the last one.\nSuperlative → three or more\nThis is the hardest task in the course.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cas.html#why-this-grammar-point-matters",
+    "href": "cas.html#why-this-grammar-point-matters",
+    "title": "14  Comparatives and Superlatives",
+    "section": "14.9 Why this grammar point matters",
+    "text": "14.9 Why this grammar point matters\nUsing comparatives and superlatives correctly helps speakers make clear, natural comparisons in academic, professional, and everyday contexts.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Comparatives and Superlatives</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html",
+    "href": "cavaf.html",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "",
+    "text": "15.1 Rule\nAdjectives describe nouns, while adverbs describe verbs, adjectives, or other adverbs.\nMany adverbs end in -ly, but not all -ly words are adverbs, and some common adverbs do not end in -ly, which often causes confusion.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#adjectives-vs.-adverbs-basic-contrast",
+    "href": "cavaf.html#adjectives-vs.-adverbs-basic-contrast",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.2 Adjectives vs. adverbs: basic contrast",
+    "text": "15.2 Adjectives vs. adverbs: basic contrast\n\nAdjective → describes a noun\nShe is a careful driver.\nAdverb → describes how an action happens\nShe drives carefully.\n\n\n\n\n\n\n\nTip\n\n\n\nAsk yourself:\nAm I describing a thing/person (adjective) or an action (adverb)?",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#common-confusing-pairs",
+    "href": "cavaf.html#common-confusing-pairs",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.3 Common confusing pairs",
+    "text": "15.3 Common confusing pairs\n\n15.3.1 good vs. well\n\ngood → adjective\nShe is a good teacher.\nwell → adverb / adjective for health\nShe teaches well.\nI feel well today.\n\n\n\n15.3.2 fast / hard / late (same form)\nThese words can be adjectives or adverbs, and they do not add -ly.\n\nHe is a fast runner. (adjective)\n\nHe runs fast. (adverb)\nIt was a hard test. (adjective)\n\nShe worked hard. (adverb)\nThe bus was late. (adjective)\n\nHe arrived late. (adverb)\n\n\n\n15.3.3 friendly / lively / lonely (adjectives only)\nSome words ending in -ly are adjectives, not adverbs.\n\nShe is very friendly.\n\nIt was a lively discussion.\n\n❌ She spoke friendly.\n✅ She spoke in a friendly way.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#my-examples",
+    "href": "cavaf.html#my-examples",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.4 My examples",
+    "text": "15.4 My examples\n\nThe instructions were clear, and the teacher explained them clearly.\nHe is a hard worker, and he works hard every day.\n\nWhy they work:\nThe adjective describes a noun (instructions, worker), and the adverb describes the action (explained, works).",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#real-world-example-everyday-language",
+    "href": "cavaf.html#real-world-example-everyday-language",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.5 Real-world example (everyday language)",
+    "text": "15.5 Real-world example (everyday language)\n\nPlease speak clearly.\n\nWhy it works:\nThe speaker is describing how the action (speak) should be done, so an adverb is required.\n\n\n\n\n\n\nNote\n\n\n\nThese forms appear constantly in classroom instructions, presentations, and workplace communication.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#common-mistakes",
+    "href": "cavaf.html#common-mistakes",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.6 Common mistakes",
+    "text": "15.6 Common mistakes\n\n❌ She did good on the exam.\n✅ She did well on the exam.\n❌ He drives careful.\n✅ He drives carefully.\n❌ She spoke friendly to the students.\n✅ She spoke in a friendly way to the students.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#mini-comparison-table",
+    "href": "cavaf.html#mini-comparison-table",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.7 Mini comparison table",
+    "text": "15.7 Mini comparison table\n\n\n\nWord\nAdjective use\nAdverb use\n\n\n\n\ngood / well\na good result\nperformed well\n\n\nfast\na fast car\ndrive fast\n\n\nhard\nhard work\nwork hard\n\n\nlate\na late train\narrive late",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "cavaf.html#why-this-grammar-point-matters",
+    "href": "cavaf.html#why-this-grammar-point-matters",
+    "title": "15  Confusing Adjective vs. Adverb Forms",
+    "section": "15.8 Why this grammar point matters",
+    "text": "15.8 Why this grammar point matters\nUsing the correct adjective or adverb form helps learners sound clear, accurate, and professional, especially in academic and spoken English.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Confusing Adjective vs. Adverb Forms</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html",
+    "href": "prap.html",
+    "title": "16  Polite Requests and Permission",
+    "section": "",
+    "text": "16.1 Rule\nWe use different structures to make requests or ask for permission depending on how polite or formal we want to sound.\nPoliteness in English often depends on modal verbs, indirect language, and social distance.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#asking-for-permission",
+    "href": "prap.html#asking-for-permission",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.2 Asking for permission",
+    "text": "16.2 Asking for permission\n\n16.2.1 Common structures\n\nCan I…? → informal\n\nMay I…? → more formal\n\nCould I…? → polite and common\n\nExamples: - Can I leave early today?\n- May I use your phone?\n- Could I ask a question?\n\n\n\n\n\n\nTip\n\n\n\nCould sounds more polite than can, especially with strangers or in formal situations.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#making-requests",
+    "href": "prap.html#making-requests",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.3 Making requests",
+    "text": "16.3 Making requests\n\n16.3.1 From less to more polite\n\nCan you…? → informal\n\nCould you…? → polite\n\nWould you mind…? → very polite\n\nExamples: - Can you help me with this?\n- Could you explain that again?\n- Would you mind closing the window?\n\n\n\n\n\n\nTip\n\n\n\nAfter Would you mind…, use -ing: Would you mind opening the door?",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#my-examples",
+    "href": "prap.html#my-examples",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.4 My examples",
+    "text": "16.4 My examples\n\nCould you please review my draft?\n\nWould you mind waiting a moment?\n\nWhy they work:\nThe speaker uses polite modal forms and indirect language to sound respectful.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#real-world-example-everyday-interaction",
+    "href": "prap.html#real-world-example-everyday-interaction",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.5 Real-world example (everyday interaction)",
+    "text": "16.5 Real-world example (everyday interaction)\n\nCould you please fill out this form?\n\nWhy it works:\nThis structure is common in offices, schools, and service situations. It is polite without being too formal.\n\n\n\n\n\n\nNote\n\n\n\nPolite requests are especially important in academic and professional contexts.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#common-mistakes",
+    "href": "prap.html#common-mistakes",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.6 Common mistakes",
+    "text": "16.6 Common mistakes\n\n❌ You close the door?\n✅ Could you close the door?\n❌ Would you mind to help me?\n✅ Would you mind helping me?\n❌ Can you please to send the file?\n✅ Can you please send the file?",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#mini-politeness-scale",
+    "href": "prap.html#mini-politeness-scale",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.7 Mini politeness scale",
+    "text": "16.7 Mini politeness scale\n\nVery informal: Can you help me?\n\nPolite: Could you help me?\n\nVery polite: Would you mind helping me?",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "prap.html#why-this-grammar-point-matters",
+    "href": "prap.html#why-this-grammar-point-matters",
+    "title": "16  Polite Requests and Permission",
+    "section": "16.8 Why this grammar point matters",
+    "text": "16.8 Why this grammar point matters\nUsing polite requests and permission forms correctly helps speakers sound respectful, professional, and culturally appropriate in English.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Polite Requests and Permission</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html",
+    "href": "svipf.html",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "",
+    "text": "17.1 Rule\nStative verbs describe states, not actions.\nThey usually refer to thoughts, feelings, possession, or senses, so they do not normally appear in progressive (-ing) forms.\nHowever, some stative verbs can be used in the progressive when the meaning changes to describe a temporary or dynamic situation.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#common-stative-verbs",
+    "href": "svipf.html#common-stative-verbs",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.2 Common stative verbs",
+    "text": "17.2 Common stative verbs\n\n17.2.1 Mental states\n\nknow\nbelieve\nunderstand\nremember\nprefer\n\n\n\n17.2.2 Emotions\n\nlike\nlove\nhate\nwant\nneed\n\n\n\n17.2.3 Possession\n\nhave\nown\nbelong\n\n\n\n17.2.4 Senses\n\nsee\nhear\nsmell\ntaste\n\n\n\n\n\n\n\nTip\n\n\n\nIf the verb describes a state rather than an action, it is probably stative.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#stative-verbs-usually-not-progressive",
+    "href": "svipf.html#stative-verbs-usually-not-progressive",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.3 Stative verbs (usually NOT progressive)",
+    "text": "17.3 Stative verbs (usually NOT progressive)\n\nI know the answer.\n❌ I am knowing the answer.\nShe likes coffee.\n❌ She is liking coffee.\nThis bag belongs to me.\n❌ This bag is belonging to me.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#when-stative-verbs-can-be-progressive-change-in-meaning",
+    "href": "svipf.html#when-stative-verbs-can-be-progressive-change-in-meaning",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.4 When stative verbs CAN be progressive (change in meaning)",
+    "text": "17.4 When stative verbs CAN be progressive (change in meaning)\nSome stative verbs become action verbs in specific contexts.\n\n17.4.1 think\n\nI think this is correct. (opinion)\nI am thinking about my research. (mental process now)\n\n\n\n17.4.2 have\n\nI have a car. (possession)\nI am having lunch. (activity)\n\n\n\n17.4.3 see\n\nI see what you mean. (understand)\nI am seeing a doctor tomorrow. (arrangement)\n\n\n\n17.4.4 feel\n\nI feel tired. (state)\nI am feeling better today. (temporary change)",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#my-examples",
+    "href": "svipf.html#my-examples",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.5 My examples",
+    "text": "17.5 My examples\n\nI understand the instructions now.\n\nI am understanding this topic better as I practice.\n\nWhy they work:\nThe first sentence expresses a state; the second shows a temporary change during a learning process.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#real-world-example-everyday-language",
+    "href": "svipf.html#real-world-example-everyday-language",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.6 Real-world example (everyday language)",
+    "text": "17.6 Real-world example (everyday language)\n\nI’m loving this course.\n\nWhy it works:\nAlthough love is usually stative, the progressive is used here to emphasize a temporary, strong feeling, common in spoken English and advertising.\n\n\n\n\n\n\nNote\n\n\n\nUsing stative verbs in the progressive is often expressive and informal, especially in modern English.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#common-mistakes",
+    "href": "svipf.html#common-mistakes",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.7 Common mistakes",
+    "text": "17.7 Common mistakes\n\n❌ I am knowing her for years.\n✅ I have known her for years.\n❌ She is owning a house.\n✅ She owns a house.\n❌ I am seeing what you mean. (when you mean “understand”)\n✅ I see what you mean.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#mini-comparison",
+    "href": "svipf.html#mini-comparison",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.8 Mini comparison",
+    "text": "17.8 Mini comparison\n\nState (simple form):\nI like this explanation.\nTemporary feeling (progressive):\nI’m liking this explanation more and more.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "svipf.html#why-this-grammar-point-matters",
+    "href": "svipf.html#why-this-grammar-point-matters",
+    "title": "17  Stative Verbs in Progressive Forms",
+    "section": "17.9 Why this grammar point matters",
+    "text": "17.9 Why this grammar point matters\nUnderstanding stative verbs helps learners avoid unnatural sentences and recognize when progressive forms are used for special emphasis.",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Stative Verbs in Progressive Forms</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "18  Summary",
+    "section": "",
+    "text": "This grammar scrapbook brings together the main grammar concepts covered in the Intermediate Grammar Specialization and presents them in a clear, organized, and practical way. Throughout the project, I reviewed and explained 15 key grammar points, focusing not only on their form, but also on their meaning and real-life use.\nEach section of the scrapbook combines explanations written in my own words, original examples, and authentic language drawn from everyday communication. This approach helped reinforce my understanding of grammar as a tool for communication, rather than as a set of isolated rules.\nWorking on this project also allowed me to identify grammar areas that require more attention and practice, while strengthening my ability to explain complex ideas in a simple and accessible way. In particular, contrasting similar structures—such as different verb tenses, modal expressions, and clause types—made the learning process more meaningful.\nOverall, this scrapbook serves both as a final reflection on what I have learned and as a personal reference resource that I can continue using in the future. It demonstrates my progress in understanding and applying English grammar in a more confident and communicative manner.",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Summary</span>"
     ]
   }
 ]
